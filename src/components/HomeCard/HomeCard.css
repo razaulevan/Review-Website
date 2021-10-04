@@ -1,0 +1,10 @@
+
+.card-round{
+    border-radius: 15px;
+    
+}
+.img-height{
+    height: 250px;
+    border-radius: 15px;
+    padding-bottom: 15px;
+}
