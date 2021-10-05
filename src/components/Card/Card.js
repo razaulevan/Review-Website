@@ -11,6 +11,7 @@ const Card = (props) => {
             <div>
                 <h3>Name : {name}</h3>
                 <p>course fee: {price}</p>
+                <button className="btn btn-primary">Course Enroll</button>
             </div>
         </div>
     );
