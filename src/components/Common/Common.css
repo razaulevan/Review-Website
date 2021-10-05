@@ -1,0 +1,16 @@
+.common-div{
+    background-color: rgb(219, 233, 238);
+    padding: 50px;
+    margin-bottom: 20px;
+}
+.common-title{
+    color: black;
+    font-size: 50px;
+}
+.common-title span{
+    color: blue;
+}
+.commot-detail{
+    font-size: 20px;
+    color: gray;
+}

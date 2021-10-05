@@ -15,6 +15,7 @@ const Services = () => {
     return (
         <div>
             <Header></Header>
+            <h1 className="all-course-title">See out all course</h1>
             <div className="all-card">
                 {
                     courses.map(course => <Card course={course} />)

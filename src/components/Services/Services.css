@@ -1,5 +1,16 @@
+
+.all-course-title{
+    font-size: 40px;
+    padding: 35px;
+    background-color: rgba(3, 3, 3, 0.432);
+    color: lightgray;
+}
+
 .all-card{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-gap: 20px;
+    padding: 0 20px;
+    padding-top: 25px;
+    
 }

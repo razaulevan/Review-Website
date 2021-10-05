@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div className="banner-container ">
             <div className="">
-                <div className="row d-flex banner align-items-center justify-content-center">
+                <div className="row d-flex banner align-items-center justify-content-center header-bottom">
                     <div className="header">
                         <nav className="d-flex justify-content-start">
                             <Link to="/home">Home</Link>

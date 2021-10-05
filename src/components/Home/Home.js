@@ -2,7 +2,7 @@ import React from 'react';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import OurServices from '../OurServices/OurServices';
-import SignUp from '../SignUp/SignUp';
+import Common from '../Common/Common';
 
 
 
@@ -10,7 +10,7 @@ const Home = () => {
     return (
         <div>
             <Header></Header>
-            <SignUp></SignUp>
+            <Common></Common>
             <OurServices></OurServices>
             <Footer></Footer>
         </div>
